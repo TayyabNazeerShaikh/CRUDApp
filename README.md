@@ -29,7 +29,7 @@ A cross-platform C# application. The CRUDApp solution contains CRUDApp.ConsoleAp
  
 ## Demo
 This is a simple representation to showcase the structure of a project dealing with tasks. 
-![Project Structrue](https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif)
+![Project Structrue](https://github.com/TayyabNazeerShaikh/CRUDApp/blob/main/Images%20%26%20Documents/1.png)
 **Project Prerequisites:**
 
  - Other:
