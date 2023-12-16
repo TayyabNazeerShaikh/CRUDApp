@@ -18,9 +18,6 @@ Modify Query part and appsettings.json as your requirements.
  - [SQL Overview](https://www.w3schools.com/sql/sql_syntax.asp)
 
  
-## Demo
-This is a simple representation to showcase the structure of a project dealing with tasks. 
-![Project Structrue](https://github.com/TayyabNazeerShaikh/CRUDApp/blob/main/Images%20%26%20Documents/Screenshot%20(215).png)
 
 
 
