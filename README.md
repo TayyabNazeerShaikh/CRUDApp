@@ -20,7 +20,7 @@ Modify Query part and appsettings.json as your requirements.
  
 ## Demo
 This is a simple representation to showcase the structure of a project dealing with tasks. 
-![Project Structrue](https://github.com/TayyabNazeerShaikh/CRUDApp/blob/main/Images%20%26%20Documents/1.png)
+![Project Structrue](https://github.com/TayyabNazeerShaikh/CRUDApp/blob/main/Images%20%26%20Documents/Screenshot%20(215).png)
 
 
 
