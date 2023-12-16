@@ -30,7 +30,7 @@ namespace CRUDApp.ConsoleApp.Logic
                         }
                         else
                         {
-                            Console.WriteLine("Data insert faild!");
+                            Console.WriteLine("Data insert failed!");
                         }
                     }
                     catch (Exception ex)
@@ -87,12 +87,12 @@ namespace CRUDApp.ConsoleApp.Logic
                         }
                         else
                         {
-                            Console.WriteLine("Data update faild!");
+                            Console.WriteLine("Data update failed!");
                         }
                     }
                     catch (Exception ex)
                     {
-                        Console.WriteLine($"SQLite Error: {ex.Message}");
+                        Console.WriteLine(ex.ToString());
                     }
                 }
             }
@@ -116,12 +116,12 @@ namespace CRUDApp.ConsoleApp.Logic
                         }
                         else
                         {
-                            Console.WriteLine("Data update faild!");
+                            Console.WriteLine("Data update failed!");
                         }
                     }
                     catch (Exception ex)
                     {
-                        Console.WriteLine($"SQLite Error: {ex.Message}");
+                        Console.WriteLine(ex.ToString());
                     }
                 }
             }
