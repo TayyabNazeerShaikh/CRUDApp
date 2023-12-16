@@ -8,7 +8,6 @@ Designed with a focus on simplicity and efficiency, this application empowers us
 
 
 
-![Project Structrue](https://cdn.dribbble.com/users/1241808/screenshots/2940913/hrp_sddrib.gif)
 
 ## Acknowledgements
 
